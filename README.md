@@ -1,16 +1,16 @@
 # Gestor-notas-configuracion-software
 
-#### Descripcion
+#### Descripción
 
-Sistema para gestionar notas de estudiantes universitarios diferenciando entre profesores, materias y promedios generales e individuales
+Sistema para gestionar notas de estudiantes universitarios, diferenciando entre profesores, materias y promedios generales e individuales.
 
 #### Objetivo
 
-Este proyecto se hara con la finalidad de resolver un problema comun en centros de estudio que consiste en **gestionar** y **organizar** las notas de estudiantes universitarios, basandose en como un solo estudiante puede estar cursando con distintos profesores y como distintos profesores puedes tener el mismo estudiante en diferentes marias.
+Este proyecto tiene como finalidad desarrollar un sistema que permita gestionar y organizar las calificaciones de estudiantes universitarios de manera eficiente, teniendo en cuenta la relación entre estudiantes, profesores y materias. El sistema permitirá registrar las calificaciones de cada estudiante según la materia y el profesor correspondiente, así como calcular los promedios individuales y generales para facilitar el seguimiento del rendimiento académico.
 
 #### Herramientas
 
-Para este proyesto se estyaran usando **C#** como lenguaje de programacion principal, **Visual Studio** como area de trabajo y **SqlServer** como base de datos.
+Para este proyecto se estarán usando **C#** como lenguaje de programación principal, **Visual Studio** como área de trabajo y **SQL Server** como base de datos.
 
 #### Estudiante a cargo
 ***Oliver Montero Mateo*** <!-- SD-2021-00021 -->
@@ -19,6 +19,6 @@ Para este proyesto se estyaran usando **C#** como lenguaje de programacion princ
 
 #### Estado
 
-Proyecto en formacion e organizacion.
+Proyecto en formación y organización.
 
-#### Organizacion
+#### Organización
